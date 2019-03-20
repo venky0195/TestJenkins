@@ -1,0 +1,24 @@
+{
+  "name": "testjenkins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon hello.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venky0195/TestJenkins.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venky0195/TestJenkins/issues"
+  },
+  "homepage": "https://github.com/venky0195/TestJenkins#readme",
+  "dependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
